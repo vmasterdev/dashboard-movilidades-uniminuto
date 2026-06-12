@@ -131,53 +131,53 @@ const RAW = [
   {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Asistencia a eventos",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRAU",destino:"Chile",paisOrigen:"Colombia",socio:"Museo Chileno de arte precolombino",unidad:"F. Ciencias de la Comunicación",dur:0,pid:121},
   {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Asistencia a eventos",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRAU",destino:"Chile",paisOrigen:"Colombia",socio:"Museo Chileno de arte precolombino",unidad:"F. Ciencias de la Comunicación",dur:0,pid:122},
   {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Asistencia a eventos",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRAU",destino:"Chile",paisOrigen:"Colombia",socio:"Museo Chileno de arte precolombino",unidad:"F. Ciencias de la Comunicación",dur:0,pid:123},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:124},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:125},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:126},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:127},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:128},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:129},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:130},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:131},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:132},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:133},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:134},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:135},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:136},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:137},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:138},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:139},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:140},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:141},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:142},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:143},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:144},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:145},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:146},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:147},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:148},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:149},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:150},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:151},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:152},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:153},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:154},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:155},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:156},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:157},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:158},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:159},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:160},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:161},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:162},
-  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"UNIVERSIDAD AUTONOMA DE TAMAULIPAS",unidad:"F. Ciencias Humanas",dur:49,pid:163},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:124},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:125},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:126},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:127},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:128},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:129},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:130},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:131},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:132},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:133},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:134},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:135},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:136},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:137},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:138},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:139},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:140},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:141},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:142},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:143},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:144},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:145},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:146},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:147},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:148},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:149},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:150},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:151},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:152},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:153},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:154},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:155},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:156},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:157},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:158},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:159},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:160},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:161},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:162},
+  {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Proyecto COIL",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:163},
   {año:2025,dir:"Entrante",nat:"Internacional",mod:"Presencial",tipo:"Voluntariado en escenario internacional",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"EE.UU.",socio:"Universidad del Sagrado Corazón",unidad:"F. Ciencias Humanas",dur:6,pid:164},
   {año:2025,dir:"Entrante",nat:"Internacional",mod:"Presencial",tipo:"Voluntariado en escenario internacional",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"EE.UU.",socio:"Universidad del Sagrado Corazón",unidad:"F. Ciencias Humanas",dur:6,pid:165},
   {año:2025,dir:"Entrante",nat:"Internacional",mod:"Presencial",tipo:"Voluntariado en escenario internacional",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"EE.UU.",socio:"Universidad del Sagrado Corazón",unidad:"F. Ciencias Humanas",dur:6,pid:166},
   {año:2025,dir:"Entrante",nat:"Internacional",mod:"Presencial",tipo:"Voluntariado en escenario internacional",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"EE.UU.",socio:"Universidad del Sagrado Corazón",unidad:"F. Ciencias Humanas",dur:6,pid:167},
   {año:2025,dir:"Entrante",nat:"Internacional",mod:"Presencial",tipo:"Voluntariado en escenario internacional",movilizante:"Estudiante",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"EE.UU.",socio:"Universidad del Sagrado Corazón",unidad:"F. Ciencias Humanas",dur:6,pid:168},
-  {año:2025,dir:"Saliente",nat:"Nacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Profesor",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:169},
-  {año:2025,dir:"Saliente",nat:"Nacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Profesor",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIVERSIDAD DE LA SALLE",unidad:"F. Ciencias Humanas",dur:0,pid:169},
+  {año:2025,dir:"Saliente",nat:"Nacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Profesor",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:169},
+  {año:2025,dir:"Saliente",nat:"Nacional",mod:"Virtual",tipo:"Clase espejo",movilizante:"Profesor",centro:"COA IBAGUE",programa:"TRSO",destino:"Colombia",paisOrigen:"Colombia",socio:"U. de La Salle",unidad:"F. Ciencias Humanas",dur:0,pid:169},
   {año:2025,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Movilidad de cursos",movilizante:"Profesor",centro:"COA IBAGUE",programa:"TRSO",destino:"México",paisOrigen:"Colombia",socio:"U. Autónoma de Tamaulipas",unidad:"F. Ciencias Humanas",dur:49,pid:170},
   {año:2025,dir:"Entrante",nat:"Internacional",mod:"Presencial",tipo:"PROF-IN Visitante",movilizante:"Profesor",centro:"COA IBAGUE",programa:"ASST",destino:"Colombia",paisOrigen:"EE.UU.",socio:"Universidad del Sagrado Corazón",unidad:"F. Ciencias Humanas",dur:6,pid:171},
   {año:2025,dir:"Entrante",nat:"Internacional",mod:"Presencial",tipo:"PROF-OUT Visitante",movilizante:"Profesor",centro:"COA IBAGUE",programa:"Esp. Transmedia",destino:"Colombia",paisOrigen:"EE.UU.",socio:"Universidad del Sagrado Corazón",unidad:"F. Ciencias Humanas",dur:6,pid:172},
@@ -745,14 +745,14 @@ const RAW = [
   {año:2026,dir:"Saliente",nat:"Nacional",mod:"Virtual",tipo:"Movilidad de cursos",movilizante:"Estudiante",centro:"COA NEIVA",programa:"AEMD",destino:"Perú",paisOrigen:"Colombia",socio:"Universidad Cesar Vallejo",unidad:"F. Ciencias Empresariales",dur:65,pid:88},
   {año:2026,dir:"Saliente",nat:"Nacional",mod:"Virtual",tipo:"Movilidad de cursos",movilizante:"Estudiante",centro:"COA NEIVA",programa:"AEMD",destino:"Perú",paisOrigen:"Colombia",socio:"Universidad Cesar Vallejo",unidad:"F. Ciencias Empresariales",dur:65,pid:88},
   {año:2026,dir:"Saliente",nat:"Nacional",mod:"Virtual",tipo:"Movilidad de cursos",movilizante:"Estudiante",centro:"COA NEIVA",programa:"AEMD",destino:"Perú",paisOrigen:"Colombia",socio:"Universidad Cesar Vallejo",unidad:"F. Ciencias Empresariales",dur:65,pid:88},
-  {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Coursera",movilizante:"Estudiante",centro:"COA NEIVA",programa:"COPD",destino:"España",paisOrigen:"Colombia",socio:"Universidad  Autónoma de Barcelona",unidad:"F. Ciencias Empresariales",dur:49,pid:548},
-  {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Coursera",movilizante:"Estudiante",centro:"COA NEIVA",programa:"COPD",destino:"España",paisOrigen:"Colombia",socio:"Universidad  Autónoma de Barcelona",unidad:"F. Ciencias Empresariales",dur:49,pid:549},
-  {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Coursera",movilizante:"Estudiante",centro:"COA NEIVA",programa:"COPD",destino:"España",paisOrigen:"Colombia",socio:"Universidad  Autónoma de Barcelona",unidad:"F. Ciencias Empresariales",dur:49,pid:550},
-  {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Coursera",movilizante:"Estudiante",centro:"COA NEIVA",programa:"COPD",destino:"España",paisOrigen:"Colombia",socio:"Universidad  Autónoma de Barcelona",unidad:"F. Ciencias Empresariales",dur:49,pid:551},
-  {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Coursera",movilizante:"Estudiante",centro:"COA NEIVA",programa:"COPD",destino:"España",paisOrigen:"Colombia",socio:"Universidad  Autónoma de Barcelona",unidad:"F. Ciencias Empresariales",dur:49,pid:552},
-  {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Coursera",movilizante:"Estudiante",centro:"COA NEIVA",programa:"COPD",destino:"España",paisOrigen:"Colombia",socio:"Universidad  Autónoma de Barcelona",unidad:"F. Ciencias Empresariales",dur:49,pid:553},
-  {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Coursera",movilizante:"Estudiante",centro:"COA NEIVA",programa:"COPD",destino:"España",paisOrigen:"Colombia",socio:"Universidad  Autónoma de Barcelona",unidad:"F. Ciencias Empresariales",dur:49,pid:554},
-  {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Coursera",movilizante:"Estudiante",centro:"COA NEIVA",programa:"COPD",destino:"España",paisOrigen:"Colombia",socio:"Universidad  Autónoma de Barcelona",unidad:"F. Ciencias Empresariales",dur:49,pid:555},
+  {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Coursera",movilizante:"Estudiante",centro:"COA NEIVA",programa:"COPD",destino:"España",paisOrigen:"Colombia",socio:"U. Autónoma de Barcelona",unidad:"F. Ciencias Empresariales",dur:49,pid:548},
+  {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Coursera",movilizante:"Estudiante",centro:"COA NEIVA",programa:"COPD",destino:"España",paisOrigen:"Colombia",socio:"U. Autónoma de Barcelona",unidad:"F. Ciencias Empresariales",dur:49,pid:549},
+  {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Coursera",movilizante:"Estudiante",centro:"COA NEIVA",programa:"COPD",destino:"España",paisOrigen:"Colombia",socio:"U. Autónoma de Barcelona",unidad:"F. Ciencias Empresariales",dur:49,pid:550},
+  {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Coursera",movilizante:"Estudiante",centro:"COA NEIVA",programa:"COPD",destino:"España",paisOrigen:"Colombia",socio:"U. Autónoma de Barcelona",unidad:"F. Ciencias Empresariales",dur:49,pid:551},
+  {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Coursera",movilizante:"Estudiante",centro:"COA NEIVA",programa:"COPD",destino:"España",paisOrigen:"Colombia",socio:"U. Autónoma de Barcelona",unidad:"F. Ciencias Empresariales",dur:49,pid:552},
+  {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Coursera",movilizante:"Estudiante",centro:"COA NEIVA",programa:"COPD",destino:"España",paisOrigen:"Colombia",socio:"U. Autónoma de Barcelona",unidad:"F. Ciencias Empresariales",dur:49,pid:553},
+  {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Coursera",movilizante:"Estudiante",centro:"COA NEIVA",programa:"COPD",destino:"España",paisOrigen:"Colombia",socio:"U. Autónoma de Barcelona",unidad:"F. Ciencias Empresariales",dur:49,pid:554},
+  {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"Coursera",movilizante:"Estudiante",centro:"COA NEIVA",programa:"COPD",destino:"España",paisOrigen:"Colombia",socio:"U. Autónoma de Barcelona",unidad:"F. Ciencias Empresariales",dur:49,pid:555},
   {año:2026,dir:"Saliente",nat:"Nacional",mod:"Presencial",tipo:"Asistencia a eventos",movilizante:"Estudiante",centro:"COA NEIVA",programa:"AEMD",destino:"Colombia",paisOrigen:"Colombia",socio:"Junta Central de Contadores",unidad:"F. Ciencias Empresariales",dur:32,pid:556},
   {año:2026,dir:"Saliente",nat:"Nacional",mod:"Presencial",tipo:"Asistencia a eventos",movilizante:"Estudiante",centro:"COA NEIVA",programa:"AEMD",destino:"Colombia",paisOrigen:"Colombia",socio:"Junta Central de Contadores",unidad:"F. Ciencias Empresariales",dur:32,pid:557},
   {año:2026,dir:"Saliente",nat:"Nacional",mod:"Presencial",tipo:"Asistencia a eventos",movilizante:"Estudiante",centro:"COA NEIVA",programa:"AEMD",destino:"Colombia",paisOrigen:"Colombia",socio:"Junta Central de Contadores",unidad:"F. Ciencias Empresariales",dur:32,pid:558},
@@ -801,7 +801,7 @@ const RAW = [
   {año:2026,dir:"Saliente",nat:"Nacional",mod:"Virtual",tipo:"Asistencia a eventos",movilizante:"Profesor",centro:"COA IBAGUE",programa:"ADFU",destino:"Colombia",paisOrigen:"Colombia",socio:"UNIMINUTO",unidad:"F. Ciencias Empresariales",dur:0,pid:88},
   {año:2026,dir:"Saliente",nat:"Nacional",mod:"Virtual",tipo:"Asistencia a eventos",movilizante:"Profesor",centro:"COA IBAGUE",programa:"LEID",destino:"Colombia",paisOrigen:"Colombia",socio:"Institucion Alberto Merani",unidad:"F. Educación",dur:0,pid:569},
   {año:2026,dir:"Saliente",nat:"Nacional",mod:"Virtual",tipo:"Asistencia a eventos",movilizante:"Profesor",centro:"COA IBAGUE",programa:"LEID",destino:"Colombia",paisOrigen:"Colombia",socio:"Institucion Alberto Merani",unidad:"F. Educación",dur:0,pid:570},
-  {año:2026,dir:"Entrante",nat:"Internacional",mod:"Virtual",tipo:"PROF-IN COIL",movilizante:"Profesor",centro:"COA IBAGUE",programa:"PSID",destino:"Colombia",paisOrigen:"México",socio:"Univeridad de Monterrey",unidad:"F. Ciencias Humanas",dur:56,pid:571},
+  {año:2026,dir:"Entrante",nat:"Internacional",mod:"Virtual",tipo:"PROF-IN COIL",movilizante:"Profesor",centro:"COA IBAGUE",programa:"PSID",destino:"Colombia",paisOrigen:"México",socio:"Universidad de Monterrey",unidad:"F. Ciencias Humanas",dur:56,pid:571},
   {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"PROF-IN COIL",movilizante:"Profesor",centro:"COA IBAGUE",programa:"PSID",destino:"México",paisOrigen:"Colombia",socio:"Universidad de Monterrey",unidad:"F. Ciencias Humanas",dur:56,pid:572},
   {año:2026,dir:"Saliente",nat:"Internacional",mod:"Virtual",tipo:"PROF-IN COIL",movilizante:"Profesor",centro:"COA IBAGUE",programa:"PSID",destino:"México",paisOrigen:"Colombia",socio:"Universidad de Monterrey",unidad:"F. Ciencias Humanas",dur:56,pid:573}
 ];
@@ -965,43 +965,54 @@ function PctStack({ rows25, rows26, field, activeFilter, onToggle }) {
   );
 }
 
-// Barra apilada por año — 1 barra por categoría (segmentos 2025/2026), ideal para listas largas
-function YearStackBar({ d25, d26, field, activeFilter, onToggle, topN = 10 }) {
+// Barra apilada por año — 1 barra por categoría. scroll=true para listas largas (todas visibles)
+function YearStackBar({ d25, d26, field, activeFilter, onToggle, topN = 999, scroll = false }) {
   const keys = [...new Set([...d25.map(d => d.name), ...d26.map(d => d.name)])];
   let merged = keys.map(k => {
     const a = d25.find(d => d.name === k)?.v ?? 0, b = d26.find(d => d.name === k)?.v ?? 0;
     return { name: k, "2025": a, "2026": b, total: a + b };
   }).sort((x, y) => y.total - x.total);
   if (!merged.length) return <div style={{ color: "#94a3b8", fontSize: 12, textAlign: "center", padding: 20 }}>Sin datos para esta combinación</div>;
-  let rest = null;
-  if (merged.length > topN) {
+  // topN sólo agrupa si se pasa explícitamente un valor < total
+  if (topN < merged.length) {
     const tail = merged.slice(topN);
-    rest = { name: `Otros (${tail.length})`, "2025": tail.reduce((s, d) => s + d["2025"], 0), "2026": tail.reduce((s, d) => s + d["2026"], 0) };
+    const rest = { name: `Otros (${tail.length})`, "2025": tail.reduce((s, d) => s + d["2025"], 0), "2026": tail.reduce((s, d) => s + d["2026"], 0) };
     rest.total = rest["2025"] + rest["2026"];
     merged = [...merged.slice(0, topN), rest];
   }
   const sel = activeFilter[field] || [];
   const click = (entry) => { if (!entry.name.startsWith("Otros (")) onToggle(field, entry.name); };
   const op = (name) => sel.length === 0 || sel.includes(name) ? 1 : 0.25;
+  const BAR_H = 28;
+  const chartH = merged.length * BAR_H + 40;
+  const inner = (
+    <BarChart data={merged} layout="vertical" width={scroll ? undefined : undefined} height={scroll ? chartH : undefined}
+      margin={{ top: 4, right: 52, left: 4, bottom: 4 }} barCategoryGap="18%">
+      <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" horizontal={false} />
+      <XAxis type="number" tick={{ fontSize: 10, fill: "#64748b" }} axisLine={false} tickLine={false} />
+      <YAxis type="category" dataKey="name" tick={{ fontSize: 10.5, fill: "#334155" }} width={160} axisLine={false} tickLine={false} interval={0} />
+      <Tooltip content={<CustomTT />} cursor={{ fill: "#f8fafc" }} />
+      <Legend wrapperStyle={{ fontSize: 11 }} />
+      <Bar dataKey="2025" name="2025" stackId="y" cursor="pointer" onClick={click}>
+        {merged.map((e, i) => <Cell key={i} fill={C25} opacity={op(e.name)} />)}
+        <LabelList dataKey="2025" position="center" formatter={v => v > 1 ? fmt(v) : ""} style={{ fontSize: 10, fontWeight: 700, fill: "#fff" }} />
+      </Bar>
+      <Bar dataKey="2026" name="2026" stackId="y" cursor="pointer" onClick={click}>
+        {merged.map((e, i) => <Cell key={i} fill={C26} opacity={op(e.name)} />)}
+        <LabelList dataKey="2026" position="center" formatter={v => v > 1 ? fmt(v) : ""} style={{ fontSize: 10, fontWeight: 700, fill: "#fff" }} />
+        <LabelList dataKey="total" position="right" style={{ fontSize: 10.5, fill: "#475569", fontWeight: 700 }} />
+      </Bar>
+    </BarChart>
+  );
+  if (scroll) return (
+    <div style={{ overflowY: "auto", overflowX: "hidden", height: "100%", paddingRight: 2 }}>
+      <div style={{ height: chartH, minHeight: chartH }}>
+        <ResponsiveContainer width="100%" height={chartH}>{inner}</ResponsiveContainer>
+      </div>
+    </div>
+  );
   return (
-    <ResponsiveContainer width="100%" height="100%" minHeight={160}>
-      <BarChart data={merged} layout="vertical" margin={{ top: 4, right: 46, left: 4, bottom: 4 }} barCategoryGap="22%">
-        <CartesianGrid strokeDasharray="3 3" stroke="#f1f5f9" horizontal={false} />
-        <XAxis type="number" tick={{ fontSize: 10, fill: "#64748b" }} axisLine={false} tickLine={false} />
-        <YAxis type="category" dataKey="name" tick={{ fontSize: 11, fill: "#334155" }} width={150} axisLine={false} tickLine={false} interval={0} />
-        <Tooltip content={<CustomTT />} cursor={{ fill: "#f8fafc" }} />
-        <Legend wrapperStyle={{ fontSize: 11 }} />
-        <Bar dataKey="2025" name="2025" stackId="y" cursor="pointer" onClick={click}>
-          {merged.map((e, i) => <Cell key={i} fill={C25} opacity={op(e.name)} />)}
-          <LabelList dataKey="2025" position="center" formatter={v => v > 2 ? fmt(v) : ""} style={{ fontSize: 10, fontWeight: 700, fill: "#fff" }} />
-        </Bar>
-        <Bar dataKey="2026" name="2026" stackId="y" cursor="pointer" onClick={click}>
-          {merged.map((e, i) => <Cell key={i} fill={C26} opacity={op(e.name)} />)}
-          <LabelList dataKey="2026" position="center" formatter={v => v > 2 ? fmt(v) : ""} style={{ fontSize: 10, fontWeight: 700, fill: "#fff" }} />
-          <LabelList dataKey="total" position="right" style={{ fontSize: 10.5, fill: "#475569", fontWeight: 700 }} />
-        </Bar>
-      </BarChart>
-    </ResponsiveContainer>
+    <ResponsiveContainer width="100%" height="100%" minHeight={160}>{inner}</ResponsiveContainer>
   );
 }
 
@@ -1089,18 +1100,14 @@ function HeatMatrix({ rows25, rows26, filters, onTogglePair }) {
   );
 }
 
-function SinglePie({ data, field, activeFilter, onToggle, topN = 6 }) {
+function SinglePie({ data, field, activeFilter, onToggle }) {
   if (!data.length) return <div style={{ color: "#94a3b8", fontSize: 12, textAlign: "center", padding: 20 }}>Sin datos para esta combinación</div>;
-  if (data.length > topN) {
-    const tail = data.slice(topN);
-    data = [...data.slice(0, topN), { name: `Otros (${tail.length})`, v: tail.reduce((s, d) => s + d.v, 0) }];
-  }
   const sel = activeFilter[field] || [];
   return (
     <ResponsiveContainer width="100%" height="100%" minHeight={160}>
       <PieChart>
         <Pie data={data} dataKey="v" nameKey="name" cx="50%" cy="50%" outerRadius="68%" innerRadius="40%"
-          paddingAngle={1} cursor="pointer" onClick={(e) => { if (!e.name.startsWith("Otros (")) onToggle(field, e.name); }}
+          paddingAngle={1} cursor="pointer" onClick={(e) => onToggle(field, e.name)}
           label={({ name, value, percent }) => `${name.length > 16 ? name.slice(0,15) + "…" : name}: ${fmt(value)} (${(percent*100).toFixed(1)}%)`}
           labelLine={{ stroke: "#cbd5e1", strokeWidth: 1 }} fontSize={10.5}>
           {data.map((e, i) => <Cell key={i} fill={PIE_COLORS[i % PIE_COLORS.length]} opacity={sel.length === 0 || sel.includes(e.name) ? 1 : 0.25} />)}
@@ -1256,7 +1263,7 @@ export default function App() {
               <VertCompare d25={count(f25, "centro")} d26={count(f26, "centro")} field="centro" activeFilter={filters} onToggle={toggle} />
             </Card>
             <Card title="Movilidades por programa académico" subtitle="Total por programa, segmentado por año · clic para filtrar">
-              <YearStackBar d25={count(f25, "programa")} d26={count(f26, "programa")} field="programa" activeFilter={filters} onToggle={toggle} topN={8} />
+              <YearStackBar d25={count(f25, "programa")} d26={count(f26, "programa")} field="programa" activeFilter={filters} onToggle={toggle} scroll={true} />
             </Card>
             <Card title="Composición: naturaleza y modalidad" subtitle="Participación porcentual por año · clic para filtrar">
               <div style={{ display: "grid", gridTemplateRows: "1fr 1fr", height: "100%", minHeight: 0 }}>
@@ -1265,7 +1272,7 @@ export default function App() {
               </div>
             </Card>
             <Card title="Movilidades por país de destino" subtitle="Total por país, segmentado por año · clic para filtrar">
-              <YearStackBar d25={count(f25, "destino")} d26={count(f26, "destino")} field="destino" activeFilter={filters} onToggle={toggle} topN={8} />
+              <YearStackBar d25={count(f25, "destino")} d26={count(f26, "destino")} field="destino" activeFilter={filters} onToggle={toggle} scroll={true} />
             </Card>
           </div>
         )}
@@ -1282,7 +1289,7 @@ export default function App() {
               <VertCompare d25={count(f25, "centro")} d26={count(f26, "centro")} field="centro" activeFilter={filters} onToggle={toggle} />
             </Card>
             <Card title="Programas con movilidad" subtitle="Total por programa, segmentado por año · clic para filtrar">
-              <YearStackBar d25={count(f25, "programa")} d26={count(f26, "programa")} field="programa" activeFilter={filters} onToggle={toggle} topN={8} />
+              <YearStackBar d25={count(f25, "programa")} d26={count(f26, "programa")} field="programa" activeFilter={filters} onToggle={toggle} scroll={true} />
             </Card>
           </div>
         )}
@@ -1290,7 +1297,7 @@ export default function App() {
         {tab === 2 && (
           <div style={grid2}>
             <Card title="Tipos de movilidad" subtitle="Total por tipo, segmentado por año · clic para filtrar">
-              <YearStackBar d25={count(f25, "tipo")} d26={count(f26, "tipo")} field="tipo" activeFilter={filters} onToggle={toggle} topN={9} />
+              <YearStackBar d25={count(f25, "tipo")} d26={count(f26, "tipo")} field="tipo" activeFilter={filters} onToggle={toggle} scroll={true} />
             </Card>
             <Card title="Distribución por tipo de movilidad" subtitle="Principales tipos · clic para filtrar">
               <SinglePie data={count(filtered, "tipo")} field="tipo" activeFilter={filters} onToggle={toggle} />
@@ -1316,7 +1323,7 @@ export default function App() {
               <VertCompare d25={count(f25, "centro")} d26={count(f26, "centro")} field="centro" activeFilter={filters} onToggle={toggle} />
             </Card>
             <Card title="Destinos por programa" subtitle="Total por programa, segmentado por año · clic para filtrar">
-              <YearStackBar d25={count(f25, "programa")} d26={count(f26, "programa")} field="programa" activeFilter={filters} onToggle={toggle} topN={8} />
+              <YearStackBar d25={count(f25, "programa")} d26={count(f26, "programa")} field="programa" activeFilter={filters} onToggle={toggle} scroll={true} />
             </Card>
           </div>
         )}
@@ -1339,10 +1346,10 @@ export default function App() {
                 <HeatMatrix rows25={f25} rows26={f26} filters={filters} onTogglePair={togglePair} />
               </Card>
               <Card title="Principales instituciones aliadas" subtitle="Contraparte de la movilidad (excluye UNIMINUTO) · clic para filtrar">
-                <YearStackBar d25={count(f25.filter(r => r.socio !== "UNIMINUTO"), "socio")} d26={count(f26.filter(r => r.socio !== "UNIMINUTO"), "socio")} field="socio" activeFilter={filters} onToggle={toggle} topN={9} />
+                <YearStackBar d25={count(f25.filter(r => r.socio !== "UNIMINUTO"), "socio")} d26={count(f26.filter(r => r.socio !== "UNIMINUTO"), "socio")} field="socio" activeFilter={filters} onToggle={toggle} scroll={true} />
               </Card>
               <Card title="Movilidades por facultad" subtitle="Total por unidad académica, segmentado por año · clic para filtrar">
-                <YearStackBar d25={count(f25, "unidad")} d26={count(f26, "unidad")} field="unidad" activeFilter={filters} onToggle={toggle} topN={8} />
+                <YearStackBar d25={count(f25, "unidad")} d26={count(f26, "unidad")} field="unidad" activeFilter={filters} onToggle={toggle} scroll={true} />
               </Card>
             </div>
           </>
